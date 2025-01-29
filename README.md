@@ -2,7 +2,7 @@
 - 👀 I’m interested in the blend where signals meet AI
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on computer vision projects
-- 📫 How to reach me jagannathkraman1234@gmail.com
+- 📫 How to reach me jagagithub4@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am from the second oldest city in the world.
 
