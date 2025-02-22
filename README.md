@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jagannath-raman
+- 👋 Hi, I’m Jagannath
 - 👀 I’m interested in the blend where signals meet AI
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on computer vision projects
